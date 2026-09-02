@@ -1,0 +1,22 @@
+# Editor / IDE
+.vscode/
+.idea/
+.clangd
+
+# Build artifacts
+build/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.o
+word_counter
+
+# Packaging output
+pa0.zip
+autograder.zip
+
+# Python
+__pycache__/
+
+# OS
+.DS_Store
